@@ -1,0 +1,5 @@
+0 Copo
+1 Bicho-de-pelucia
+2 laranja
+3 Escova-de-cabelo
+4 Garrafa-térmica
